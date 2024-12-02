@@ -24,6 +24,7 @@
 #include <fstream>
 #include "geometry.h"
 #include "vertexdata.h"
+#include <cstring>
 
 // Point-Matrix multiplication. The input point is assumed to have Cartesian
 // coordinates but because we will multiply this point by a 4x4 matrix we actually

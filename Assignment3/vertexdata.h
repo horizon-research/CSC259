@@ -1,3 +1,5 @@
+#include <stdint.h>
+
 
 const uint32_t numVertices = 2630;
 const Vec3f vertices[numVertices] = {
